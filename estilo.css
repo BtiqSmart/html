@@ -1,0 +1,37 @@
+#dimensao{
+width:960px;
+margin: auto
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: blueviolet;
+
+}
+
+.menu{
+    width: 480px;
+    margin:auto;
+    padding: auto;
+    background-color: aqua;  
+    
+    
+}
+
+body ul li {
+list-style: none;
+width: 300px;
+background-color: chartreuse;
+
+}
+
+button {
+margin-top: 20px;
+margin-left: 75px;
+padding: auto;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+
+
